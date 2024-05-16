@@ -1,7 +1,7 @@
 # Installation
 
 ## .SH
-in work
+> .installGruvbox.sh
 
 ### Manually
  Copy files inside 
